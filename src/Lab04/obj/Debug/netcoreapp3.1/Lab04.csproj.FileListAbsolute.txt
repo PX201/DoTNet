@@ -1,0 +1,17 @@
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab01.exe
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab04.exe
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab04.deps.json
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.json
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.dev.json
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab04.dll
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab04.pdb
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab01.dll
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\bin\Debug\netcoreapp3.1\Lab01.pdb
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\obj\Debug\netcoreapp3.1\Lab04.csprojAssemblyReference.cache
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfoInputs.cache
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfo.cs
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.CoreCompileInputs.cache
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.CopyComplete
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\obj\Debug\netcoreapp3.1\Lab04.dll
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\obj\Debug\netcoreapp3.1\Lab04.pdb
+D:\Study\ProgrammingLanguages\C#\Labs\Lab04\obj\Debug\netcoreapp3.1\Lab04.genruntimeconfig.cache

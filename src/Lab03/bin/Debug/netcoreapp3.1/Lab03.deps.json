@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab03/1.0.0": {
+        "dependencies": {
+          "Lab01": "1.0.0"
+        },
+        "runtime": {
+          "Lab03.dll": {}
+        }
+      },
+      "Lab01/1.0.0": {
+        "runtime": {
+          "Lab01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
